@@ -413,92 +413,92 @@ const emojiCategories = {
       name: "消息图标",
     },
     {
-      svg: '<svg xmlns="http://www.w3.org/2000/svg" stroke="currentColor" viewBox="0 0 24 24" width="24" height="24"><path d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z"/></svg>',
+      svg: '<svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" viewBox="0 0 24 24" width="24" height="24"><path d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z"/></svg>',
       name: "主页图标",
     },
     {
-      svg: '<svg xmlns="http://www.w3.org/2000/svg"  stroke="currentColor" viewBox="0 0 24 24" width="24" height="24"><path d="M15.5 14h-.79l-.28-.27A6.5 6.5 0 1 0 14 15.5l.27.28v.79l6 6 1.5-1.5-6-6zM10 17a7 7 0 1 1 7-7 7 7 0 0 1-7 7z"/></svg>',
+      svg: '<svg xmlns="http://www.w3.org/2000/svg" fill="none"  stroke="currentColor" viewBox="0 0 24 24" width="24" height="24"><path d="M15.5 14h-.79l-.28-.27A6.5 6.5 0 1 0 14 15.5l.27.28v.79l6 6 1.5-1.5-6-6zM10 17a7 7 0 1 1 7-7 7 7 0 0 1-7 7z"/></svg>',
       name: "搜索图标",
     },
     {
-      svg: '<svg xmlns="http://www.w3.org/2000/svg"  stroke="currentColor" viewBox="0 0 24 24" width="24" height="24"><path d="M12 8a4 4 0 1 0 4 4 4 4 0 0 0-4-4zm0 6a2 2 0 1 1 2-2 2 2 0 0 1-2 2zm8-6.5V5h-2.5l-1-2H7.5L6.5 3H4v2.5l1 1.5H2v2h3.5l1 1.5H2v2h3.5l1 1.5H2v2h3.5l1 1.5H4v2h2.5l1-2h8.5l1 2H20v-2.5l-1-1.5h3v-2h-3.5l-1-1.5H20z"/></svg>',
+      svg: '<svg xmlns="http://www.w3.org/2000/svg" fill="none"  stroke="currentColor" viewBox="0 0 24 24" width="24" height="24"><path d="M12 8a4 4 0 1 0 4 4 4 4 0 0 0-4-4zm0 6a2 2 0 1 1 2-2 2 2 0 0 1-2 2zm8-6.5V5h-2.5l-1-2H7.5L6.5 3H4v2.5l1 1.5H2v2h3.5l1 1.5H2v2h3.5l1 1.5H2v2h3.5l1 1.5H4v2h2.5l1-2h8.5l1 2H20v-2.5l-1-1.5h3v-2h-3.5l-1-1.5H20z"/></svg>',
       name: "设置图标",
     },
     {
-      svg: '<svg xmlns="http://www.w3.org/2000/svg"  stroke="currentColor" viewBox="0 0 24 24" width="24" height="24"><path d="M12 12a5 5 0 1 0-5-5 5 5 0 0 0 5 5zm0 2c-6.25 0-10 3.13-10 7v1h20v-1c0-3.87-3.75-7-10-7z"/></svg>',
+      svg: '<svg xmlns="http://www.w3.org/2000/svg" fill="none"  stroke="currentColor" viewBox="0 0 24 24" width="24" height="24"><path d="M12 12a5 5 0 1 0-5-5 5 5 0 0 0 5 5zm0 2c-6.25 0-10 3.13-10 7v1h20v-1c0-3.87-3.75-7-10-7z"/></svg>',
       name: "用户图标",
     },
     {
-      svg: '<svg xmlns="http://www.w3.org/2000/svg"  stroke="currentColor" viewBox="0 0 24 24" width="24" height="24"><path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"/></svg>',
+      svg: '<svg xmlns="http://www.w3.org/2000/svg" fill="none"  stroke="currentColor" viewBox="0 0 24 24" width="24" height="24"><path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"/></svg>',
       name: "心形图标",
     },
     {
-      svg: '<svg xmlns="http://www.w3.org/2000/svg"  stroke="currentColor" viewBox="0 0 24 24" width="24" height="24"><path d="M12 17.27L18.18 21 16.54 13.97 22 9.24l-9.19-.77L12 2 10.19 8.47 1 9.24l5.46 4.73L5.82 21z"/></svg>',
+      svg: '<svg xmlns="http://www.w3.org/2000/svg" fill="none"  stroke="currentColor" viewBox="0 0 24 24" width="24" height="24"><path d="M12 17.27L18.18 21 16.54 13.97 22 9.24l-9.19-.77L12 2 10.19 8.47 1 9.24l5.46 4.73L5.82 21z"/></svg>',
       name: "星形图标",
     },
     {
-      svg: '<svg xmlns="http://www.w3.org/2000/svg" stroke="currentColor"  viewBox="0 0 24 24" width="24" height="24"><path d="M12 22a2 2 0 0 0 2-2H10a2 2 0 0 0 2 2zm6-6V10a6 6 0 0 0-12 0v6l-2 2h16l-2-2z"/></svg>',
+      svg: '<svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor"  viewBox="0 0 24 24" width="24" height="24"><path d="M12 22a2 2 0 0 0 2-2H10a2 2 0 0 0 2 2zm6-6V10a6 6 0 0 0-12 0v6l-2 2h16l-2-2z"/></svg>',
       name: "提醒图标",
     },
     {
-      svg: '<svg xmlns="http://www.w3.org/2000/svg" stroke="currentColor"  viewBox="0 0 24 24" width="24" height="24"><path d="M3 6h18v2H3zm2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8H5zm3 2h2v8H8zm4 0h2v8h-2z"/></svg>',
+      svg: '<svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor"  viewBox="0 0 24 24" width="24" height="24"><path d="M3 6h18v2H3zm2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8H5zm3 2h2v8H8zm4 0h2v8h-2z"/></svg>',
       name: "垃圾桶图标",
     },
     {
-      svg: '<svg xmlns="http://www.w3.org/2000/svg"  stroke="currentColor" viewBox="0 0 24 24" width="24" height="24"><path d="M3 17.25V21h3.75l11.7-11.7-3.75-3.75L3 17.25zm15.6-10.6l1.4 1.4-3.75 3.75-1.4-1.4 3.75-3.75z"/></svg>',
+      svg: '<svg xmlns="http://www.w3.org/2000/svg" fill="none"  stroke="currentColor" viewBox="0 0 24 24" width="24" height="24"><path d="M3 17.25V21h3.75l11.7-11.7-3.75-3.75L3 17.25zm15.6-10.6l1.4 1.4-3.75 3.75-1.4-1.4 3.75-3.75z"/></svg>',
       name: "编辑图标",
     },
     {
-      svg: '<svg xmlns="http://www.w3.org/2000/svg"  stroke="currentColor" viewBox="0 0 24 24" width="24" height="24"><path d="M19 9h-4V4h-6v5H5l7 7 7-7zm0 18H5V8h14v13z"/></svg>',
+      svg: '<svg xmlns="http://www.w3.org/2000/svg" fill="none"  stroke="currentColor" viewBox="0 0 24 24" width="24" height="24"><path d="M19 9h-4V4h-6v5H5l7 7 7-7zm0 18H5V8h14v13z"/></svg>',
       name: "下载图标",
     },
     {
-      svg: '<svg xmlns="http://www.w3.org/2000/svg"  stroke="currentColor" viewBox="0 0 24 24" width="24" height="24"><path d="M19 9h-4V4h-6v5H5l7 7 7-7zm0 18H5V8h14v13z"/></svg>',
+      svg: '<svg xmlns="http://www.w3.org/2000/svg" fill="none"  stroke="currentColor" viewBox="0 0 24 24" width="24" height="24"><path d="M19 9h-4V4h-6v5H5l7 7 7-7zm0 18H5V8h14v13z"/></svg>',
       name: "上传图标",
     },
     {
-      svg: '<svg xmlns="http://www.w3.org/2000/svg" stroke="currentColor"  viewBox="0 0 24 24" width="24" height="24"><path d="M17 8h-1V6a5 5 0 0 0-10 0v2H7a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V10a2 2 0 0 0-2-2zm-5 12a2 2 0 0 1-2-2h4a2 2 0 0 1-2 2zm-1-10V6a3 3 0 0 1 6 0v2h-6z"/></svg>',
+      svg: '<svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor"  viewBox="0 0 24 24" width="24" height="24"><path d="M17 8h-1V6a5 5 0 0 0-10 0v2H7a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V10a2 2 0 0 0-2-2zm-5 12a2 2 0 0 1-2-2h4a2 2 0 0 1-2 2zm-1-10V6a3 3 0 0 1 6 0v2h-6z"/></svg>',
       name: "锁定图标",
     },
     {
-      svg: '<svg xmlns="http://www.w3.org/2000/svg" stroke="currentColor"  viewBox="0 0 24 24" width="24" height="24"><path d="M17 8h-1V6a5 5 0 0 0-10 0v2H7a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V10a2 2 0 0 0-2-2zm-5 12a2 2 0 0 1-2-2h4a2 2 0 0 1-2 2zm-1-10V6a3 3 0 0 1 6 0v2h-6z"/></svg>',
+      svg: '<svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor"  viewBox="0 0 24 24" width="24" height="24"><path d="M17 8h-1V6a5 5 0 0 0-10 0v2H7a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V10a2 2 0 0 0-2-2zm-5 12a2 2 0 0 1-2-2h4a2 2 0 0 1-2 2zm-1-10V6a3 3 0 0 1 6 0v2h-6z"/></svg>',
       name: "解锁图标",
     },
     {
-      svg: '<svg xmlns="http://www.w3.org/2000/svg" stroke="currentColor"  viewBox="0 0 24 24" width="24" height="24"><path d="M12 2a2 2 0 0 0-2 2v2H8a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2h-2V4a2 2 0 0 0-2-2h-4zm0 4h4v2h-4V6zm0 4h4v2h-4v-2zm0 4h4v2h-4v-2z"/></svg>',
+      svg: '<svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor"  viewBox="0 0 24 24" width="24" height="24"><path d="M12 2a2 2 0 0 0-2 2v2H8a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2h-2V4a2 2 0 0 0-2-2h-4zm0 4h4v2h-4V6zm0 4h4v2h-4v-2zm0 4h4v2h-4v-2z"/></svg>',
       name: "相机图标",
     },
     {
-      svg: '<svg xmlns="http://www.w3.org/2000/svg" stroke="currentColor"  viewBox="0 0 24 24" width="24" height="24"><path d="M21 6h-2.586l-1.707-1.707A2 2 0 0 0 16 4H8a2 2 0 0 0-1.414.586L4.586 6H3a1 1 0 0 0-1 1v10a1 1 0 0 0 1 1h1.586l1.707 1.707A2 2 0 0 0 8 20h8a2 2 0 0 0 1.414-.586L20.414 18H21a1 1 0 0 0 1-1V7a1 1 0 0 0-1-1z"/></svg>',
+      svg: '<svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor"  viewBox="0 0 24 24" width="24" height="24"><path d="M21 6h-2.586l-1.707-1.707A2 2 0 0 0 16 4H8a2 2 0 0 0-1.414.586L4.586 6H3a1 1 0 0 0-1 1v10a1 1 0 0 0 1 1h1.586l1.707 1.707A2 2 0 0 0 8 20h8a2 2 0 0 0 1.414-.586L20.414 18H21a1 1 0 0 0 1-1V7a1 1 0 0 0-1-1z"/></svg>',
       name: "聊天图标",
     },
     {
-      svg: '<svg xmlns="http://www.w3.org/2000/svg" stroke="currentColor"  viewBox="0 0 24 24" width="24" height="24"><path d="M19 3h-2v2h-6V3H5a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2zm0 18H5V8h14v13z"/></svg>',
+      svg: '<svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor"  viewBox="0 0 24 24" width="24" height="24"><path d="M19 3h-2v2h-6V3H5a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2zm0 18H5V8h14v13z"/></svg>',
       name: "日历图标",
     },
     {
-      svg: '<svg xmlns="http://www.w3.org/2000/svg" stroke="currentColor" viewBox="0 0 24 24" width="24" height="24"><path d="M12 2a2 2 0 0 0-2 2v2H8a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2h-2V4a2 2 0 0 0-2-2h-4zm0 4h4v2h-4V6zm0 4h4v2h-4v-2zm0 4h4v2h-4v-2z"/></svg>',
+      svg: '<svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" viewBox="0 0 24 24" width="24" height="24"><path d="M12 2a2 2 0 0 0-2 2v2H8a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2h-2V4a2 2 0 0 0-2-2h-4zm0 4h4v2h-4V6zm0 4h4v2h-4v-2zm0 4h4v2h-4v-2z"/></svg>',
       name: "文件图标",
     },
     {
-      svg: '<svg xmlns="http://www.w3.org/2000/svg" stroke="currentColor" viewBox="0 0 24 24" width="24" height="24"><path d="M10 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2h-6l-2-2H4zm0 2l6 4h-6V6z"/></svg>',
+      svg: '<svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" viewBox="0 0 24 24" width="24" height="24"><path d="M10 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2h-6l-2-2H4zm0 2l6 4h-6V6z"/></svg>',
       name: "文件夹图标",
     },
     {
-      svg: '<svg xmlns="http://www.w3.org/2000/svg" stroke="currentColor" viewBox="0 0 24 24" width="24" height="24"><path d="M19 3h-2l-1-1H8L7 3H5a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2zm0 18H5V5h2l1-1h8l1 1h2v16z"/></svg>',
+      svg: '<svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" viewBox="0 0 24 24" width="24" height="24"><path d="M19 3h-2l-1-1H8L7 3H5a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2zm0 18H5V5h2l1-1h8l1 1h2v16z"/></svg>',
       name: "地图图标",
     },
     {
-      svg: '<svg xmlns="http://www.w3.org/2000/svg" stroke="currentColor" viewBox="0 0 24 24" width="24" height="24"><path d="M18 16.08A4.992 4.992 0 0 0 20 12a4.992 4.992 0 0 0-2-4.08V8h-2V4h-2v4h-2v2h2v2.08A4.992 4.992 0 0 0 12 20a4.992 4.992 0 0 0 4-1.92V20h2v-4h2v-2h-2v-1.92z"/></svg>',
+      svg: '<svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" viewBox="0 0 24 24" width="24" height="24"><path d="M18 16.08A4.992 4.992 0 0 0 20 12a4.992 4.992 0 0 0-2-4.08V8h-2V4h-2v4h-2v2h2v2.08A4.992 4.992 0 0 0 12 20a4.992 4.992 0 0 0 4-1.92V20h2v-4h2v-2h-2v-1.92z"/></svg>',
       name: "分享图标",
     },
     {
-      svg: '<svg xmlns="http://www.w3.org/2000/svg" stroke="currentColor" viewBox="0 0 24 24" width="24" height="24"><path d="M10 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V10h-2v10H4V6h6V4zm10 0h-6v2h6v2h2V4h-2zM10 10H8v2h2v-2zm0 4H8v2h2v-2zm4-4h-2v2h2v-2zm0 4h-2v2h2v-2z"/></svg>',
+      svg: '<svg xmlns="http://www.w3.org/2000/svg" fill="none"  stroke="currentColor" viewBox="0 0 24 24" width="24" height="24"><path d="M10 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V10h-2v10H4V6h6V4zm10 0h-6v2h6v2h2V4h-2zM10 10H8v2h2v-2zm0 4H8v2h2v-2zm4-4h-2v2h2v-2zm0 4h-2v2h2v-2z"/></svg>',
       name: "超链接图标",
     },
     // 也可以添加对话图标
     {
-      svg: '<svg xmlns="http://www.w3.org/2000/svg" stroke="currentColor" viewBox="0 0 24 24" width="24" height="24"><path d="M21 6h-6.586l-1-1H6a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8l6-6zm-3 12H6V8h12v10z"/></svg>',
+      svg: '<svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" viewBox="0 0 24 24" width="24" height="24"><path d="M21 6h-6.586l-1-1H6a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8l6-6zm-3 12H6V8h12v10z"/></svg>',
       name: "对话图标",
     },
   ],
