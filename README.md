@@ -99,3 +99,8 @@ emoji-selector/
 该项目使用 MIT 许可证。
 
 MIT 许可证的详细信息可以在 [MIT License](https://opensource.org/licenses/MIT) 找到。
+
+## GitHub 仓库
+
+您可以在这里找到项目的 GitHub 仓库：  
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github)](https://github.com/tufeiping/emoji-select)
