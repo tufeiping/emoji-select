@@ -63,6 +63,11 @@
 
 3. 按照提示进行操作，您的应用将被部署到 Vercel。
 
+可以直接访问 `Vercel` 部署示例 [https://icon-select.vercel.app/](https://icon-select.vercel.app/)
+
+<!-- SNAPSHOT -->
+<img src="./snapshot.png" alt="snapshot" />
+
 ## 目录结构
 
 ```text
@@ -78,9 +83,6 @@ emoji-selector/
 │ └── styles.css
 └── package.json
 ```
-
-<!-- SNAPSHOT -->
-<img src="./snapshot.png" alt="snapshot" />
 
 ## 贡献
 
