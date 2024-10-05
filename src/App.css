@@ -113,6 +113,10 @@
   height: 100%;
 }
 
+.color-picker {
+  margin-bottom: 10px;
+}
+
 /* 媒体查询：在移动端隐藏 footer */
 @media (max-width: 768px) {
   .footer {
