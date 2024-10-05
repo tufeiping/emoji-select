@@ -79,6 +79,9 @@ emoji-selector/
 └── package.json
 ```
 
+<!-- SNAPSHOT -->
+<img src="./snapshot.png" alt="snapshot" />
+
 ## 贡献
 
 欢迎任何形式的贡献！请遵循以下步骤：
@@ -91,6 +94,6 @@ emoji-selector/
 
 ## 许可证
 
-该项目使用 MIT 许可证。有关详细信息，请参阅 [LICENSE](LICENSE) 文件。
+该项目使用 MIT 许可证。
 
 MIT 许可证的详细信息可以在 [MIT License](https://opensource.org/licenses/MIT) 找到。
