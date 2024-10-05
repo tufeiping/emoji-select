@@ -553,14 +553,14 @@ const EmojiSelector = () => {
         ))}
       </div>
       <div className="selected-item">
-        <h2>Selected Item:</h2>
+        <h2>选择图标</h2>
         {selectedItem.emoji ? (
           <span style={{ fontSize: `${svgSize}px` }}>{selectedItem.emoji}</span>
         ) : (
           <>
             {/* 新增颜色选择器 */}
             <div className="color-picker">
-              <label htmlFor="color">选择颜色:</label>
+              <label htmlFor="color">选择颜色:&nbsp;</label>
               <input
                 type="color"
                 id="color"
@@ -586,7 +586,7 @@ const EmojiSelector = () => {
           min="10"
           max="100"
         />
-        <button onClick={handleCopy}>Copy to Clipboard</button>
+        <button onClick={handleCopy}>复制到剪贴板</button>
       </div>
     </div>
   );
